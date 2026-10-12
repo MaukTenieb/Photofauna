@@ -11,7 +11,7 @@ The code lives in the [insertkoin](https://github.com/MaukTenieb/insertkoin) rep
 
 Built for [Insert Koin](https://mauktenieb.github.io/insertkoin/), the browser arcade of the Korhogo Fauna, where it is the photo booth.
 
-Other tools by Mauk Tenieb: [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, then their catchlights · [FaunaTor](https://github.com/MaukTenieb/faunator): Tor inside a web page · [KorhoTube](https://github.com/MaukTenieb/korhotube): a YouTube channel as JSON · [Reporhogo](https://github.com/MaukTenieb/reporhogo): one topic, forty-one code forges · [TorView](https://github.com/MaukTenieb/torview): a minimal Tor browser, Go.
+Other tools by Mauk Tenieb: [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, then their catchlights · [FaunaTor](https://github.com/MaukTenieb/faunator): Tor inside a web page · [KorhoTube](https://github.com/MaukTenieb/korhotube): a YouTube channel as JSON · [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches forty-one code forges for a topic · [TorView](https://github.com/MaukTenieb/torview): a minimal Tor browser, Go.
 
 Start here: https://mauktenieb.github.io/
 <!-- network:end -->
