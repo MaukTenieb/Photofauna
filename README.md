@@ -1,6 +1,6 @@
 # Photofauna
 
-The pocket photo emulator of Insert Koin, by Mauk Tenieb: shoot or open a picture, stack effects, undo, save. Every file is named after the French Republican calendar (`18-vendemiaire-235_photofauna_001.png`).
+Photofauna, the photo editor of Insert Koin by Mauk Tenieb, opens or takes a picture and stacks looks on it, with undo and PNG export. Every file is named after the French Republican calendar (`18-vendemiaire-235_photofauna_001.png`).
 
 **Online: https://mauktenieb.github.io/insertkoin/fotofauna.html**
 
@@ -9,11 +9,11 @@ The code lives in the [insertkoin](https://github.com/MaukTenieb/insertkoin) rep
 <!-- network:start -->
 ## Provenance
 
-Built for [Insert Koin](https://mauktenieb.github.io/insertkoin/), the browser arcade of the Korhogo Fauna, where it is the photo booth.
+Built for [Insert Koin](https://mauktenieb.github.io/insertkoin/), Mauk Tenieb's browser games set in Korhogo, where it is the photo booth.
 
-Other tools by Mauk Tenieb: [Detour](https://github.com/MaukTenieb/detour): portraits to sprite strips, then their catchlights · [FaunaTor](https://github.com/MaukTenieb/faunator): Tor inside a web page · [KorhoTube](https://github.com/MaukTenieb/korhotube): a YouTube channel as JSON · [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches forty-one code forges for a topic · [TorView](https://github.com/MaukTenieb/torview): a minimal Tor browser, Go.
+Other tools by Mauk Tenieb: [Detour](https://github.com/MaukTenieb/detour): cuts portrait sheets into sprite strips and places the eye lights · [FaunaTor](https://github.com/MaukTenieb/faunator): reads web and .onion pages through Tor clients that run in the page · [KorhoTube](https://github.com/MaukTenieb/korhotube): lists every video of a YouTube channel as JSON · [Reporhogo](https://github.com/MaukTenieb/reporhogo): searches forty-one code forges for a topic and lists the repositories it finds · [TorView](https://github.com/MaukTenieb/torview): a desktop browser in Go that routes its traffic through the official Tor daemon.
 
-Start here: https://mauktenieb.github.io/
+Index of Mauk Tenieb's sites: https://mauktenieb.github.io/
 <!-- network:end -->
 
 ## Rights
