@@ -1,6 +1,6 @@
 # Photofauna
 
-Photofauna, the photo editor of Insert Koin by Mauk Tenieb, opens or takes a picture and stacks looks on it, with undo and PNG, JPEG and GIF export. Every file is named after the French Republican calendar (`18-vendemiaire-235_photofauna_001.png`).
+Photofauna, the photo editor of Insert Koin by Mauk Tenieb, opens or takes a picture and stacks looks on it, with undo and PNG, JPEG and GIF export. Photofauna names every file after the French Republican calendar (`18-vendemiaire-235_photofauna_001.png`).
 
 **Online: https://mauktenieb.github.io/insertkoin/fotofauna.html**
 
@@ -18,4 +18,4 @@ Index of Mauk Tenieb's sites: https://mauktenieb.github.io/
 
 ## Rights
 
-Code: MIT licence (see `LICENSE`). Korhogo material — characters, names, marks, lore, texts, images, music: Copyright © Mauk Tenieb & Korhogo, all rights reserved; no reproduction or reuse without written permission, including for training or use by artificial-intelligence systems.
+Code under MIT, method under CC BY 4.0, Korhogo material reserved (characters, names, marks, lore, texts, images, videos, music). Credit for any reuse: Mauk Tenieb & Korhogo. A person may use an AI assistant to read, explain and adapt the code and the method; training of AI models: reserved. Details: LICENSE.
